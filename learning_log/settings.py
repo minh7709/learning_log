@@ -26,9 +26,7 @@ SECRET_KEY = 'django-insecure-s@@9o4x4t87f1gt!rne63o)94xml)a+jus9%d6c6my!tg54)0x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['minhn23.pythonanywhere.com']
-
-
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']  # Replace with your domain or IP address
 # Application definition
 
 INSTALLED_APPS = [
@@ -62,7 +60,7 @@ ROOT_URLCONF = 'learning_log.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'learning_log/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
