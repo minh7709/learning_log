@@ -30,7 +30,7 @@ Người dùng có thể đăng ký tài khoản, tạo các chủ đề học t
 
 ---
 
-📸 Video demo: 
+📸 Video demo: https://drive.google.com/file/d/1Sj7VP0OKGoCotxVs72rIoBPTtidPNs2n/view?usp=sharing
 
 ---
 
