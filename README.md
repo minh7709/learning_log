@@ -2,6 +2,7 @@
 
 **Learning Log** là một hệ thống nhật ký trực tuyến cho phép người dùng theo dõi những thông tin mà họ đã học về các chủ đề cụ thể.
 Người dùng có thể đăng ký tài khoản, tạo các chủ đề học tập và thêm các mục nhật ký để lưu lại kiến thức đã học theo thời gian.
+
 ---
 
 ## 🚀 Tính năng
@@ -11,6 +12,7 @@ Người dùng có thể đăng ký tài khoản, tạo các chủ đề học t
 - Ghi chú nhật ký theo từng chủ đề
 - Giao diện đơn giản, dễ sử dụng với Bootstrap
 - Triển khai trên [PythonAnywhere](https://www.pythonanywhere.com)
+
 ---
 
 ## 🛠️ Công nghệ sử dụng
@@ -19,6 +21,17 @@ Người dùng có thể đăng ký tài khoản, tạo các chủ đề học t
 - 🌐 **Django** (backend + routing)
 - 🎨 **Bootstrap** (giao diện người dùng)
 - 💻 **PythonAnywhere** (hosting & deploy)
+
+---
+
+🌐 Triển khai
+Ứng dụng được triển khai tại:
+🔗 https://minhn23.pythonanywhere.com
+
+---
+
+📸 Video demo: 
+
 ---
 
 ## ⚙️ Cài đặt (local)
@@ -37,8 +50,3 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ---
-🌐 Triển khai
-Ứng dụng được triển khai tại:
-🔗 https://minhn23.pythonanywhere.com
-
-📸 Video demo: 
