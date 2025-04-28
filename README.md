@@ -38,7 +38,7 @@ Người dùng có thể đăng ký tài khoản, tạo các chủ đề học t
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/learning_log.git
+git clone https://github.com/minh7709/learning_log.git
 cd learning_log
 
 # 2. Tạo virtual environment và cài đặt dependencies
